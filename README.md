@@ -8,6 +8,6 @@ Providing a proper future implementation to go at long last. Stop telling people
 go get github.com/dancantos/future
 ```
 
-## Why
+## Why?
 
-See my [rant](rant.md).
+[rant.md](rant.md)
